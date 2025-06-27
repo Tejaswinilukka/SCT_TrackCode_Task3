@@ -1,20 +1,22 @@
 # SCT_TrackCode_Task3
 
-#SkillCraftTechnology
+# SkillCraftTechnology
 
-#Mechine Learning
+# Mechine Learning
 
-#Task-03
+# Task-03
 
-#Python 3
+# cats vs dogs  --> Project Title
 
-#Scikit-learn
+# Python 3
 
-#NumPy
+# Scikit-learn
 
-#PIL (Pillow)
+# NumPy
 
-#Matplotlib
+# PIL (Pillow)
+
+# Matplotlib
 
 This project is part of a machine learning internship task under SkillCraftTechnology, where I implemented a Support Vector Machine (SVM) to classify images of cats and dogs.
 The main objective was to build a traditional machine learning model (SVM) that can distinguish between cat and dog images by transforming pixel data into numerical features and training the classifier accordingly.
